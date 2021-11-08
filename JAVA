@@ -1,0 +1,12 @@
+public class JAVA {
+  public static void main(String[] args) {
+    String Hi = "Hi";
+    String Hello = "ll";
+    String Hej = "ej";
+    String Hey = "oy";
+    String Yo = "o";
+    String theBestGreetingEver = Hi + Hello + Hej + Hey + Yo;
+    System.out.println(theBestGreetingEver);
+
+  }
+}
